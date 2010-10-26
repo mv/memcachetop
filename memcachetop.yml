@@ -1,0 +1,21 @@
+dev:
+    - 172.16.1.42:11211
+    - 172.16.0.151:11211
+
+test:
+    - localhost:11211
+#   - localhost:11212
+#   - localhost:11213
+
+localhost:
+    - localhost:11211
+
+system1:
+    - hostname1:11211
+    - hostname2:11211
+    - hostname3:11211
+    
+system2:
+    - host1:port1
+    - host2:port2
+    - host3:port3
