@@ -2,6 +2,7 @@
 #
 # memcachetop
 #     memcache-top wrapper 
+#     http://github.com/mv/memcachetop
 #
 # Depends on:
 #     memcache-top: http://code.google.com/p/memcache-top/
